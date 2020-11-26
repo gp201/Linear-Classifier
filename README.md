@@ -3,3 +3,4 @@ This is a Machine Learning program built to classify handwritten digits using a 
 tf.contrib.learn is used  
 10 classes {0-9}  
 Dataset: MNIST handwritten digits
+test
